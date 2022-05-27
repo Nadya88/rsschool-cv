@@ -1,5 +1,4 @@
 # rsschool-cv
-https://github.com/Nadya88/rsschool-cv.git
 #  Надя88
 # 375-(29)-172-00-70
 #  Цель  - научиться программировать!
